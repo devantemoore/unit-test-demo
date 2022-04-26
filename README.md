@@ -1,29 +1,7 @@
 # unit-test-demo
 
-## Project setup
+## Project description/objective
 ```
-npm install
-```
+Testing out using vue test utils + typescript
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Wrote a few ts functions to test
